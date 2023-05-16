@@ -36,7 +36,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h3>Analyze Player</h3>
+        <h3>Sent Analyze Player</h3>
         <form onSubmit={onSubmit}>
           <input
             type="text"
